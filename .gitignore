@@ -1,0 +1,15 @@
+.vs
+DerivedDataCache
+Intermediate
+Saved
+*.sln
+Binaries
+/Content
+.idea/
+Plugins/Developer
+resource.lnk
+.vscode
+node_modules/
+ArchivedBuilds
+/Incarnation.sln.DotSettings.user
+ToolsData
